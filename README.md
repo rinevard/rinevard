@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m @rinevard
 A Chinese undergraduate student at [Beijing Institute of Technology](https://english.bit.edu.cn/).
 
-Read my [blog](https://rinevard.github.io) to learn more about me!
+Welcome to play my [games](https://rinevard.itch.io/)!
 
 <!---
 rinevard/rinevard is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
